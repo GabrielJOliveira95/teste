@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
